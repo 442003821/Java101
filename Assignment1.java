@@ -4,7 +4,7 @@ ID:442003821
 
 
 import java.util.Scanner;
-//your grade is 3/5
+//your grade is 2.5/5
 //@ set your name after the import statement
 //@ there is no age but a number !!!!
  class Main {
