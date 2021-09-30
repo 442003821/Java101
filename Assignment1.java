@@ -1,12 +1,6 @@
-
-name:محمدعبدالملك الزهراني
-ID:442003821
-
-
-
 import java.util.Scanner;
-//your grade is 2.5/5
-//@ place line 6 to be at line 1
+//Your Name:محمد عبدالملك الزهراني
+//Your ID:442003821
  class Main {
     public static void main(String[] args) {
     Scanner myScanner=new Scanner(System.in);
@@ -17,18 +11,18 @@ import java.util.Scanner;
       number1 = myScanner.nextFloat();
       System.out.println("Enter the second age");
       number2 = myScanner.nextFloat();
-	  System.out.println(age1+age2);
-	 System.out.println(age1-age2);
-	 System.out.println(age1*age2);
-	  System.out.println(age1/age2);
-	   System.out.println(age1%age2);
-	    System.out.println(age1>age2);
-	  System.out.println(age1>=age2);
-	   System.out.println(age1<age2);
-	    System.out.println(age1<=age2);
-	     System.out.println(age1!=age2);
+	  System.out.println(number1+number2);
+	 System.out.println(number1-number2);
+	 System.out.println(number1*number2);
+	  System.out.println(number1/number2);
+	   System.out.println(number1%number2);
+	    System.out.println(number1>number2);
+	  System.out.println(number1>=number2);
+	   System.out.println(anumber1<number2);
+	    System.out.println(number1<=number2);
+	     System.out.println(number1!=number2);
          //@check the equallity operation
-	      System.out.println(age1=age2);
+	      System.out.println(number1==number2);
 	 
 	 
 	 
