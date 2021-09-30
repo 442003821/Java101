@@ -6,11 +6,11 @@ import java.util.Scanner;
     Scanner myScanner=new Scanner(System.in);
     //@ change Float to be float in lowercase
     //@ change age1, age2 to number1 and number to
-      Float number1,number2;
-      System.out.println("Enter the first age");
-      number1 = myScanner.nextFloat();
-      System.out.println("Enter the second age");
-      number2 = myScanner.nextFloat();
+      float number1,number2;
+      System.out.println("Enter the first number");
+      number1 = myScanner.nextfloat();
+      System.out.println("Enter the second number");
+      number2 = myScanner.nextfloat();
 	  System.out.println(number1+number2);
 	 System.out.println(number1-number2);
 	 System.out.println(number1*number2);
