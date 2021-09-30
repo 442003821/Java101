@@ -1,8 +1,8 @@
 import java.util.Scanner;
 //Your Name:محمد عبدالملك الزهراني
 //Your ID:442003821
- class Main {
-    public static void main(String[] args) {
+ class Assignment1 {
+    public static void Assignment1(String[] args) {
     Scanner myScanner=new Scanner(System.in);
     //@ change Float to be float in lowercase
     //@ change age1, age2 to number1 and number to
