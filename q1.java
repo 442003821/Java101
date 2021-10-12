@@ -10,7 +10,7 @@ System.out.println("Enter a number");
  int Run =0;
 int myrun=0;
 Run=N.nextInt();
-Run=myrun/2;
+myrun=Run/2;
 if(Run*2==myrun){
 System.out.println("Even");}
     
