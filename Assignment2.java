@@ -1,5 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
+//your grade is 4.5
+//fix class name to match file name !!! golden rule
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -18,8 +20,8 @@ public class Main {
             char AMM= M.charAt(0);
             System.out.println(AMM);
             if(AMM != 'r' && AMM != 'p' && AMM != 's'){
-               
-              
+
+
                 break;
             }
 
