@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Main
+public class square Width And Height
 {
 	public static void main(String[] args) {
 	Scanner N=new Scanner(System.in);
