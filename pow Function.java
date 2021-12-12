@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main
+public class pow Function
 {
 	
 	static int add(int L,int O){
