@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Main
+public class weekend And weekdays Switch
 {
 	public static void main(String[] args) {
 	Scanner N=new Scanner(System.in);
@@ -14,7 +14,7 @@ case 2:
 case 3:
 case 4:
 case 5:
-System.out.println("weekDays");    
+System.out.println("weekdays");    
 break;
 case 6:
 case 7:
