@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class age
 {
 	public static void main(String[] args) {
 	Scanner N=new Scanner(System.in);
